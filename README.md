@@ -35,9 +35,9 @@ Connect with me to explore collaboration opportunities!
 - Conducted hypothesis testing using T-tests and ANOVA.
 - Provided actionable insights for policymaking.
 
-![COVID-19 Lockdown Analysis Visualization](./COVID19_Lockdown_Analysis/covid_analysis_visualization.png)
+![COVID-19 Lockdown Analysis Visualization](https://www.google.com/url?sa=i&url=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs42979-020-00383-w&psig=AOvVaw1ZpYEuVgzvFUB7bty1uLl8&ust=1734080054622000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOiew-btoYoDFQAAAAAdAAAAABAK)
 
-[Explore the Project](./COVID19_Lockdown_Analysis/)
+[Explore the Project](https://github.com/venkatasushanth/COVID19_Lockdown_Analysis)
 
 ---
 
@@ -49,9 +49,9 @@ Connect with me to explore collaboration opportunities!
 - Built a machine learning pipeline for sentiment classification.
 - Achieved high accuracy in detecting emotional trends.
 
-![Twitter Sentiment Analysis Visualization](./Twitter_Sentiment_Analysis/twitter_sentiment_visualization.png)
+![Twitter Sentiment Analysis Visualization]([./Twitter_Sentiment_Analysis/twitter_sentiment_visualization.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fjarrodtky%2FTwitter-API_EDA-SentimentAnalysis_Python&psig=AOvVaw3DdXC-klmP-B1cApMjzxdK&ust=1734079970914000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICu5rztoYoDFQAAAAAdAAAAABAE)
 
-[Explore the Project](./Twitter_Sentiment_Analysis/)
+[Explore the Project](https://github.com/venkatasushanth/Twitter_Sentiment_Analysis)
 
 ---
 
