@@ -35,7 +35,7 @@ Connect with me to explore collaboration opportunities!
 - Conducted hypothesis testing using T-tests and ANOVA.
 - Provided actionable insights for policymaking.
 
-![COVID-19 Lockdown Analysis Visualization](https://www.google.com/url?sa=i&url=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs42979-020-00383-w&psig=AOvVaw1ZpYEuVgzvFUB7bty1uLl8&ust=1734080054622000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOiew-btoYoDFQAAAAAdAAAAABAK)
+![COVID-19 Lockdown Analysis Visualization](https://github.com/venkatasushanth/COVID19_Lockdown_Analysis/blob/main/42979_2020_383_Fig1_HTML.png)
 
 [Explore the Project](https://github.com/venkatasushanth/COVID19_Lockdown_Analysis)
 
@@ -49,23 +49,23 @@ Connect with me to explore collaboration opportunities!
 - Built a machine learning pipeline for sentiment classification.
 - Achieved high accuracy in detecting emotional trends.
 
-![Twitter Sentiment Analysis Visualization]([./Twitter_Sentiment_Analysis/twitter_sentiment_visualization.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fjarrodtky%2FTwitter-API_EDA-SentimentAnalysis_Python&psig=AOvVaw3DdXC-klmP-B1cApMjzxdK&ust=1734079970914000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCICu5rztoYoDFQAAAAAdAAAAABAE)
+![Twitter Sentiment Analysis Visualization]([./Twitter_Sentiment_Analysis/twitter_sentiment_visualization.png](https://github.com/venkatasushanth/Twitter_Sentiment_Analysis/blob/main/1_vp1M37AGMOFwCvLxVm62IA.jpg)
 
 [Explore the Project](https://github.com/venkatasushanth/Twitter_Sentiment_Analysis)
 
 ---
 
-### Sales Forecasting Dashboard
-**Objective:** Designed an interactive Tableau dashboard to streamline sales and inventory management.
+### FIFA 22 Player Performance Analysis - Master's Project
+**Objective:** Analyzed FIFA 22 player data to evaluate and enhance player performance using machine learning models.
 
 **Highlights:**
-- Used Python and SQL to preprocess sales data.
-- Built dashboards for real-time pattern recognition and inventory forecasting.
-- Achieved 80-95% accuracy in sales predictions.
+- Conducted data preprocessing, feature engineering, and visualization of player attributes.
+- Built models (KNN, Random Forest, and SVM) to classify and predict skill performance with an accuracy range of 80-90%.
+- Improved player performance metrics by simulating updates to attributes like weak foot, achieving noticeable accuracy gains.
 
-![Sales Dashboard Example](./Sales_Forecasting_Dashboard/sales_dashboard_visualization.png)
+![FIFA Project Example](https://github.com/venkatasushanth/FIFA_22_PLAYER_PERFORMANCE/blob/main/mapping%20of%20players%20skill.png)
 
-[Explore the Project](./Sales_Forecasting_Dashboard/)
+[Explore the Project](https://github.com/venkatasushanth/FIFA_22_PLAYER_PERFORMANCE)
 
 ---
 
@@ -83,9 +83,9 @@ Connect with me to explore collaboration opportunities!
 - **Microsoft Power BI Certified**
 - **Business Analytics Trainee (Academor)**
 
-![Certification Example](./Certifications/certification_example.png)
+![Certification Example](https://github.com/venkatasushanth/Certifications/blob/main/ABD4LBLP.pdf)
 
-[View All Certifications](./Certifications/)
+[View All Certifications](https://github.com/venkatasushanth/Certifications)
 
 ---
 
